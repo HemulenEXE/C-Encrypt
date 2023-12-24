@@ -1,0 +1,16 @@
+﻿  encoder.cpp
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1274,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1508,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1522,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1527,45): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1695,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1853,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1868,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1870,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\encoder\TextWork.h(1882,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  25 of 292 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  encoder.vcxproj -> C:\Users\DungeonMaster\Desktop\ProgramProject\Visual\encoder\Release\encoder.exe
